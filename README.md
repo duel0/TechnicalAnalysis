@@ -2,7 +2,8 @@
 
 A basic Technical Analysis tool.
 
-```git clone https://github.com/duel0/TechnicalAnalysis
+```
+git clone https://github.com/duel0/TechnicalAnalysis
 pip3 install -r requirements.txt
 python3 main.py
 ```
